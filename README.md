@@ -8,16 +8,17 @@ Bienvenido al repositorio para la descarga de **Flex3 Beta**, una potente herram
 - **Total control**: Realiza cambios en tiempo real para mejorar la experiencia de usuario.
 
 ## **Descarga Flex3 Beta**
-Haz clic en el siguiente enlace para descargar la última versión de **Flex3 Beta**:
+El archivo se encuentra en la carpeta **Descargas**. Haz clic en el siguiente enlace para descargar la última versión de **Flex3 Beta**:
 [**Descargar Flex3 Beta aquí**](https://github.com/23DEVV/Flex-3-Beta/releases/download/Flex/Flex3.Rootless.-.ALEKTL.zip)
 
 ## **Instrucciones de Instalación**
 Para aprender cómo instalar y utilizar Flex3 Beta, sigue las instrucciones detalladas en el siguiente video:
 [**Ver video de instalación**](https://youtu.be/TPVA254YSek?si=JYdj7yjSq-eX2UbC)
 
-## **Créditos**
-Este proyecto fue posible gracias a **ALEKTL**. El archivo se encuentra en los créditos.
+---
+
+**Créditos**: El archivo se encuentra en el canal de YouTube de [**ALEKTL**](https://youtube.com/@alektl4323?si=CnSwwnVVFbnyqBGm).
 
 ---
 
-¡Disfruta personalizando tu dispositivo iOS con **Flex3 Beta**!  
+¡Disfruta personalizando tu dispositivo iOS con **Flex3 Beta**!
